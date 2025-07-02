@@ -11,8 +11,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Solutions;Crafting+Clean+API+Architectures;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohamedabuzaid&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/mohamedabuzaid)
-[![GitHub followers](https://img.shields.io/github/followers/mohamedabuzaid?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/mohamedabuzaid)
 
 </div>
 
