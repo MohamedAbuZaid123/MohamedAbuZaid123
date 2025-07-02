@@ -18,24 +18,6 @@
 
 ---
 
-## 🎯 Current Status
-
-```php
-<?php
-class DeveloperProfile {
-    public function getCurrentFocus(): array {
-        return [
-            'company' => 'BytesWay',
-            'role' => 'Backend Developer',
-            'mission' => 'Building scalable, high-performance applications',
-            'learning' => ['Docker', 'PHPUnit Testing', 'CI/CD Pipelines'],
-            'collaboration' => 'Open source Laravel tools & API development'
-        ];
-    }
-}
-```
-
----
 
 ## 💻 Tech Arsenal
 
@@ -61,18 +43,6 @@ class DeveloperProfile {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedabuzaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabuzaid&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabuzaid&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🎨 Code Philosophy
 
