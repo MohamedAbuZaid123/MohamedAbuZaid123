@@ -3,10 +3,10 @@
 <div align="center">
   
 ```ascii
-                                    ╔══════════════════════════════════════════════════════════════╗
-                                    ║                    Full-stack Developer                      ║
-                                    ║            Laravel • Node.js • React.js • Next.js            ║
-                                    ╚══════════════════════════════════════════════════════════════╝
+                                   ╔══════════════════════════════════════════════════════════════╗
+                                   ║                    Full-stack Developer                      ║
+                                   ║            Laravel • Node.js • React.js • Next.js            ║
+                                   ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Backend+Solutions;Crafting+Clean+API+Architectures;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
