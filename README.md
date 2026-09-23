@@ -1,11 +1,11 @@
-# <div align="center">🚀 Mohamed Abuzaid</div>
+# <div align="center">Mohamed Abuzaid</div>
 
 <div align="center">
   
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║                    FullStack Developer                      ║
-║              PHP • Laravel • Node.js • APIs                 ║
+║               • Laravel • Node.js • React.js • Next.js                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
