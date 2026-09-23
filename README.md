@@ -5,7 +5,7 @@
 ```ascii
                                     ╔══════════════════════════════════════════════════════════════╗
                                     ║                    Full-stack Developer                      ║
-                                    ║       Laravel • Node.js • React.js • Next.js                 ║
+                                    ║            Laravel • Node.js • React.js • Next.js            ║
                                     ╚══════════════════════════════════════════════════════════════╝
 ```
 
